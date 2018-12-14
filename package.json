@@ -1,0 +1,26 @@
+{
+  "name": "DMoW",
+  "version": "0.0.1",
+  "description": "The most lightweight, decentralized, configurable machine (< 300 lines of code)",
+  "main": "Protocol.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mosca": "^2.8.3",
+    "mqtt": "^2.18.8",
+    "vm": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Project-Kunta/DMoW"
+  },
+  "author": "Kunta Labs",
+  "license": "GNU GPL",
+  "bugs": {
+    "url": "https://github.com/Project-Kunta/DMoW/issues"
+  },
+  "homepage": "https://github.com/Project-Kunta/DMoW#readme"
+}
